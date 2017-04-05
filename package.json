@@ -1,0 +1,22 @@
+{
+  "name": "twpack",
+  "version": "1.0.0",
+  "description": "goofing around with webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-efortune/twpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "fortune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-efortune/twpack/issues"
+  },
+  "homepage": "https://github.com/andela-efortune/twpack#readme"
+}
