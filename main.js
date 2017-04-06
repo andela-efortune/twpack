@@ -1,6 +1,6 @@
-var greetUser = require('./first-module');
-var playMusic = require('./second-module');
+import greetUser from './first-module';
+import  playMusic from './second-module';
 
 greetUser('Iyke', document.querySelector('h1'));
-playMusic('Rap', document.querySelector('p'));
+playMusic('Usher', document.querySelector('p'));
 
