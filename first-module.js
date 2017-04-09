@@ -1,4 +1,4 @@
-module.exports = function greetUser(name, element) {
-	element.textContent = 'Hello ' + name + '. How are you doing today?';
+export default (name, element) => {
+	element.textContent = `Hello ${name}. How are you doing today? :)`;
 }
 
