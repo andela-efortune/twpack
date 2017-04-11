@@ -1,0 +1,32 @@
+{
+  "name": "twpack",
+  "version": "1.0.0",
+  "description": "goofing around with webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-efortune/twpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "fortune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-efortune/twpack/issues"
+  },
+  "homepage": "https://github.com/andela-efortune/twpack#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "css-loader": "^0.28.0",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "url-loader": "^0.5.8"
+  }
+}
